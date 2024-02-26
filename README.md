@@ -2,4 +2,4 @@
 </br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniobox)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-https://camo.githubusercontent.com/080b91dd02128f918f04fa2dd8400af7c8333d906353c8266231f901ba2fc529/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a6f7264696c6176696c61267468656d653d7472616e73706172656e7426686964655f626f726465723d74727565267374726f6b653d303030303030303026646174655f666f726d61743d6a2532304d25354225323059253544266d6f64653d7765656b6c79266c6f63616c653d6573
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Antoniobox&theme=transparent&hide_border=true&stroke=00000000&date_format=j%20M%5B%20Y%5D&mode=weekly&locale=es" height="130em" weight="100vw" alt="Racha"/>
